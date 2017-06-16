@@ -1,0 +1,22 @@
+@font-face{
+	font-family: led;
+	src:url("DIGITAL1.ttf");
+}
+
+body {
+    background-color: #FFFFBE;
+}
+
+h1{
+	font-family: led;
+	background-color: #FFFFD3;
+	color: blue;
+	font-size: 50px;
+}
+
+label{
+	font-family: led;
+	background-color: #FFFFD3;
+	color: black;
+	font-size: 25px;
+}
